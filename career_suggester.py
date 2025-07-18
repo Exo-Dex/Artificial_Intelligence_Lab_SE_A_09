@@ -25,3 +25,16 @@ def main():
     engine.run()
 if __name__ == "__main__":
     main()
+    
+    
+###Output:
+
+#Example 1:
+"""Welcome to the Career Path Expert System!
+Enter your interests separated by commas (e.g., Maths, Physics, Programming): Maths, Programming
+Suggested Career Path: Computer Engineering"""
+
+#Example 2:
+"""Welcome to the Career Path Expert System!
+Enter your interests separated by commas (e.g., Maths, Physics, Programming): Maths, Physics
+Suggested Career Path: Mechanical Engineering"""
