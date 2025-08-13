@@ -1,0 +1,114 @@
+{
+  "ContactInfo": {
+    "Name": "Abigail Hall",
+    "Email": "abi.hall@enhancv.com",
+    "Location": "San Francisco, CA",
+    "LinkedIn": "linkedin.com"
+  },
+  "ResumeSections": {
+    "Summary": "Seasoned IT business analyst with over 12 years in business analytics, specializing in data visualization and BI software, including Qlikview and SAS. Demonstrated success in leading major analytics dashboard projects that enhanced reporting efficiency by 30%. Expertise extends to Agile and Scrum methodologies, JIRA, SQL, ETL, and Master Data Management. Proven ability in boosting operational efficiencies and achieving substantial cost savings through strategic data integration projects.",
+    "Experience": [
+      {
+        "Company": "Genentech",
+        "Title": "Senior Business Analyst",
+        "Location": "South San Francisco, CA",
+        "Duration": "01/2016 - Present",
+        "Highlights": [
+          "Led the development of an advanced analytics dashboard that improved decision-making speed for senior management by 25%.",
+          "Facilitated over 40 workshops to define and refine project scopes, translating complex data into actionable insights.",
+          "Validated dashboard features, increasing user engagement by 15%.",
+          "Created business rules and data metrics, enhancing report accuracy and reliability.",
+          "Led user acceptance testing, decreasing post-deployment issues by 10%.",
+          "Supported operations team training, boosting productivity by 20%."
+        ]
+      },
+      {
+        "Company": "Amgen",
+        "Title": "Business Systems Analyst",
+        "Location": "Thousand Oaks, CA",
+        "Duration": "06/2012 - 12/2015",
+        "Highlights": [
+          "Implemented a data integration solution saving $200K annually.",
+          "Managed data analytics project portfolio aligning with business goals.",
+          "Developed use cases for BI solutions.",
+          "Migrated analytics platforms to a more robust system, increasing data processing speed by 30%.",
+          "Led documentation efforts using JIRA."
+        ]
+      },
+      {
+        "Company": "BioMarin Pharmaceutical",
+        "Title": "Data Analyst",
+        "Location": "San Rafael, CA",
+        "Duration": "03/2008 - 05/2012",
+        "Highlights": [
+          "Analyzed complex data sets for strategic decision-making.",
+          "Optimized data collection processes, reducing time-to-insight by 20%.",
+          "Developed a predictive analytics model to improve forecasting accuracy.",
+          "Created detailed reports and presentations for stakeholders."
+        ]
+      }
+    ],
+    "Education": [
+      {
+        "Institution": "University of San Francisco",
+        "Degree": "Master of Science in Information Systems",
+        "Location": "San Francisco, CA",
+        "Duration": "01/2006 - 01/2008"
+      },
+      {
+        "Institution": "University of California, Berkeley",
+        "Degree": "Bachelor of Science in Computer Science",
+        "Location": "Berkeley, CA",
+        "Duration": "01/2002 - 01/2006"
+      }
+    ],
+    "KeyAchievements": [
+      {
+        "Title": "Streamlined reporting processes",
+        "Description": "Reduced time for data analysis by 40%, significantly improving operational efficiency."
+      },
+      {
+        "Title": "Enhanced data integration",
+        "Description": "Consolidated multiple data sources into one framework, improving data accessibility."
+      },
+      {
+        "Title": "Award for innovation",
+        "Description": "Won 'Innovator of the Year' for creating a predictive analytics tool reducing forecast errors by 25%."
+      }
+    ],
+    "Skills": [
+      "Data Visualization",
+      "Agile and Scrum",
+      "JIRA",
+      "SQL",
+      "ETL",
+      "Business Intelligence"
+    ],
+    "Certification": [
+      "Certified Scrum Master — Certification focusing on Agile project management methodologies, provided by Scrum Alliance."
+    ]
+  },
+  "Keywords": [
+    "Business Analyst",
+    "Data Analytics",
+    "Data Visualization",
+    "BI Software",
+    "Qlikview",
+    "SAS",
+    "Agile",
+    "Scrum",
+    "JIRA",
+    "SQL",
+    "ETL",
+    "Master Data Management",
+    "Dashboard",
+    "Forecasting",
+    "Predictive Analytics",
+    "Operational Efficiency",
+    "Cost Saving",
+    "User Acceptance Testing",
+    "Cloud",
+    "Big Data"
+  ]
+}
+
